@@ -1,8 +1,12 @@
 # util-collection
 
 ## 3rd party  development kit
--Grabba
+- Grabba - FingerPrint mobile development kit
+- Aforge.NET - ImageLibrary
+- Wireshark - Network monitoring
 
 ## Utilies
--Notepad++
--Teamviewer($)
+- Notepad++  - Text Editor
+- Teamviewer($) - Remote Desktop
+- CutePDF - Print to PDF
+
