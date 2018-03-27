@@ -6,7 +6,7 @@
 - Wireshark - Network monitoring
 - OpenCV - image processing lib
 
-## Utilies
+## Utilities
 - Notepad++  - Text Editor
 - Teamviewer($) - Remote Desktop
 - CutePDF - Print to PDF
